@@ -1,30 +1,32 @@
-# Manufacturing Data Analysis Project
+# Data Science & Manufacturing Analysis Projects
 
 ## 📌 Overview
-This project focuses on analyzing manufacturing data to derive valuable insights regarding production performance, operational efficiency, and key business metrics. The project combines data processing using Excel and interactive visualization using Power BI.
+This repository contains a collection of Data Science, Machine Learning, Exploratory Data Analysis (EDA), and Manufacturing Analysis projects. It demonstrates data manipulation, statistical distribution analysis, and dynamic visualization using Python, Excel, and Power BI.
 
 ---
 
 ## 🛠️ Tools & Technologies Used
+* **Data Science & ML (Python):** Jupyter Notebooks (`.ipynb`), Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 * **Data Processing & Analysis:** Microsoft Excel (`Manufacturing_Analysis.xlsx`)
 * **Data Visualization & Dashboard:** Microsoft Power BI (`Manufacturing Analysis.pbix`)
 
 ---
 
-## 📂 Project Structure
-* `Manufacturing_Analysis.xlsx` - Contains raw and structured manufacturing dataset used for analysis.
-* `Manufacturing Analysis.pbix` - Power BI dashboard file containing interactive visuals, KPIs, and reports.
-* `README.md` - Documentation and project guidelines.
+## 📂 Project Structure & Files
+
+### 1. Data Science & Machine Learning (Jupyter Notebooks)
+* `EDA.ipynb` - Exploratory Data Analysis covering data cleaning, summary statistics, and visual insights.
+* `Distribution_ND_SND.ipynb` - Statistical analysis focused on Normal Distribution (ND) and Standard Normal Distribution (SND).
+* `DS_ML_Lec_4 (1).ipynb` - Notebook on core Data Science and Machine Learning concepts (Lecture 4).
+* `DS_&ML_Module_5_lec_1(1).ipynb` - Advanced module notebook covering specific ML workflows and techniques (Module 5).
+
+### 2. Manufacturing Analysis
+* `Manufacturing_Analysis.xlsx` - Raw and structured manufacturing dataset used for analysis.
+* `Manufacturing Analysis.pbix` - Interactive Power BI dashboard for production performance and operational KPIs.
 
 ---
 
-## 📊 Key Highlights & Features
-* **Production Insights:** Analysis of manufacturing efficiency and output trends.
-* **KPI Tracking:** Monitoring key metrics related to operations and performance.
-* **Interactive Dashboard:** Dynamic Power BI report allowing user filtering and breakdown.
-
----
-
-## 🚀 How to View the Project
-1. **Excel Analysis:** Open `Manufacturing_Analysis.xlsx` in Microsoft Excel to inspect the data and calculations.
-2. **Power BI Dashboard:** Download and open `Manufacturing Analysis.pbix` using **Power BI Desktop** to interact with the visual dashboard.
+## 🚀 How to Explore the Repository
+1. **Python / ML Notebooks:** Click on any `.ipynb` file directly on GitHub to view the code, analysis, and visual outputs.
+2. **Excel Data:** Download `Manufacturing_Analysis.xlsx` to inspect the raw dataset and calculations.
+3. **Power BI Dashboard:** Download `Manufacturing Analysis.pbix` and open it with **Power BI Desktop** to view the interactive visuals.
